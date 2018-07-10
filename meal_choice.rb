@@ -5,7 +5,7 @@ end
 puts snacks
 
 
-def breakfast(food_2="Frosted Flakes")
+def breakfast(food_2="frosted flakes")
   "Morning is the best time for #{food_2}!"
 end
  puts breakfast
