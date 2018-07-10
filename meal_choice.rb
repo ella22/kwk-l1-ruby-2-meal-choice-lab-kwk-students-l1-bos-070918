@@ -16,7 +16,7 @@ end
 puts lunch
 
 
-def dinner(food= salmon)
+def dinner(food="salmon")
   "Dinner is the best time for Salmon!"
 end 
   puts dinner
